@@ -1,1 +1,1 @@
-# sc_quality_analysis
+# Bioinformatics project 
